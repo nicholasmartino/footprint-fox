@@ -1,6 +1,6 @@
 # Building footprint generator
 
-Building footprint generator based on the [pix2pix]('https://www.tensorflow.org/tutorials/generative/pix2pix') model using conditional Generative Adversarial Networks. Training data was sourced from Statistics Canada's [Open Database of Buildings]('https://www.statcan.gc.ca/eng/lode/databases/odb').
+Building footprint generator based on the [pix2pix](https://www.tensorflow.org/tutorials/generative/pix2pix) model using conditional Generative Adversarial Networks. Training data was sourced from Statistics Canada's [Open Database of Buildings]('https://www.statcan.gc.ca/eng/lode/databases/odb').
 
 ## Results
 ![](https://raw.githubusercontent.com/nicholas-martino/pix2pix/master/footprints_gen/150epochs/fg3.png)
